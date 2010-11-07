@@ -1,0 +1,56 @@
+#SystemSoftwareVersion=6.20;
+# JP
+Dest=00;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=10;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=20;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=30;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# US
+Dest=01;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=11;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=21;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=31;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# EU
+Dest=02;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=12;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=22;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=32;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# KR
+Dest=03;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=13;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=23;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=33;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# UK
+Dest=04;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=14;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=24;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=34;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# MX
+Dest=05;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=15;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=25;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=35;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# AU/NZ
+Dest=06;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=16;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=26;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=36;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# E
+Dest=07;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=17;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=27;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=37;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# TW
+Dest=08;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=18;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=28;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=38;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# RU
+Dest=09;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=19;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=29;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=39;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
+# CN
+Dest=0A;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?0;CDN_Timeout=30;
+Dest=1A;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?1;CDN_Timeout=30;
+Dest=2A;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?2;CDN_Timeout=30;
+Dest=3A;ImageVersion=0020000;CDN=http://oicfw-project.googlecode.com/svn/trunk/IOCtrl/EBOOT.PBP?3;CDN_Timeout=30;
